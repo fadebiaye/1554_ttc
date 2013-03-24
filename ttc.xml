@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ttc.xsl" ?>
+<?xml-stylesheet type="text/css" href="devis.css"?>
+<!-- Edited by XMLSpy� -->
+<thesaurus>
+    <titre id="Thésaurus Typographique Contemporain"></titre>
+    <auteur aut="Frank Adebiaye"></auteur>
+    
+  <term0 name="Études typographiques">
+    <relation1 name="partitive">
+     
+     <term1 name="Enseignement">
+          <relation2 name="partitive">
+              <term2 name="Écoles"/>
+              <term2 name="Enseignants"/>
+          </relation2>
+      </term1>
+      
+     <term1 name="Critique"/>
+      
+     <term1 name="Théories et expérimentations"/>
+
+    </relation1>
+  </term0>
+ 
+  <term0 name="Objets typographiques">
+
+    <relation1 name="partitive">
+
+     <term1 name="Lettrage">
+          <relation2 name="partitive">
+              <term2 name="Logotypes">
+                  <relation3 name="instance">
+                      <term3 name="Wordmark"/>
+                 </relation3>
+              </term2>
+          </relation2>
+      </term1>
+      
+     <term1 name="Planche typographique"/>
+     
+     <term1 name="Caractère typographique">
+          <relation2 name="partitive">
+              <term2 name="Casse en plomb" />
+              <term2 name="Casse en bois" />
+              <term2 name="Caractère typographique numérique">
+                  <relation3 name="instance">
+                      <term3 name="Fonte numérique">
+                      	<relation4 name="partitive">
+                      	<term4 name="Contenu">
+                      		<relation5 name="partitive">
+                      		<term5 name="Glyphe">
+                      			<relation6 name="partitive">
+                      			<term6 name="Représentation vectorielle" />
+                      			<term6 name="Représentation matricielle" />
+                      			</relation6>
+                      	    </term5>
+                      		<term5 name="Fonction OpenType" />
+                      		<term5 name="Métriques" />
+                      		</relation5>
+                      	</term4>
+                      	<term4 name="Licence d’utilisation" />
+                      	<term4 name="Contenant">
+                      		<relation5 name="partitive">
+                      		<term5 name="Codage"/>
+                      		<term5 name="Format">
+                      			<relation6 name="partitive">
+                      			<term6 name="Format d’édition" />
+                      			<term6 name="Format d’échange" />
+                      			<term6 name="Format de publication" />
+                      			<term6 name="Format d’archivage" />
+                      			</relation6>
+                      	    </term5>
+                      		</relation5>
+                      	</term4>                      	
+                      	</relation4>
+                      </term3>
+                  </relation3>
+              </term2>
+          </relation2>
+      </term1>
+      
+     </relation1>
+
+      
+  </term0>
+  
+  <term0 name="Opérations typographiques">
+    <relation1 name="partitive">
+     
+     <term1 name="Création typographique">
+          <relation2 name="partitive">
+              <term2 name="Dessin de caractères" />
+              <term2 name="Développement de fontes numériques">
+                  <relation3 name="partitive">
+                      <term3 name="Crénage" />
+                      <term3 name="Corrections optiques" />
+                      <term3 name="Optimisation pour l’écran" />
+                      <term3 name="Programmation" />
+                  </relation3>
+               </term2>
+          </relation2>
+      </term1>
+     
+     <term1 name="Composition typographique">
+          <relation2 name="partitive">
+              <term2 name="Composition pour l’imprimé">
+                  <relation3 name="partitive">
+                      <term3 name="Composition manuelle" />
+                      <term3 name="Composition mécanique">
+                      	<relation4 name="instance">
+                      	<term4 name="Linotype" />
+                      	<term4 name="Monotype" />
+                      	</relation4>
+                      </term3>
+                      <term3 name="Composition photographique">
+                      	<relation4 name="partitive">
+                      	<term4 name="Photocomposition" />
+                      	<term4 name="Phototitrage" />
+                      	</relation4>
+                      </term3>
+                      <term3 name="Composition informatisée">
+                      	<relation4 name="partitive">
+                      	<term4 name="Composition visuelle">
+                      		<relation5 name="partitive">
+                      		<term5 name="Traitement bureautique" />
+                      		<term5 name="Traitement graphique" />
+                      		</relation5>
+                      	</term4>
+                      	<term4 name="Composition balisée" />
+                      	</relation4>
+                      </term3>
+                  </relation3>
+              </term2>
+              <term2 name="Composition pour l’écran">
+                  <relation3 name="partitive">
+                      <term3 name="Composition visuelle">
+                      	<relation4 name="partitive">
+                      	<term4 name="Composition statique" />
+                      	<term4 name="Composition dynamique" />
+                      	</relation4>
+                      </term3>
+                      <term3 name="Composition balisée">
+                      	<relation4 name="partitive">
+                      	<term4 name="Composition statique" />
+                      	<term4 name="Composition dynamique" />
+                      	</relation4>
+                      </term3>
+                  </relation3>
+              </term2>
+          </relation2>
+       </term1>
+
+     <term1 name="Correction typographique">
+          <relation2 name="partitive">
+              <term2 name="Règles d’orthographe et de grammaire" />
+              <term2 name="Règles typographiques" />
+          </relation2>
+      </term1>
+      
+     <term1 name="Fixation typographique sur support">
+          <relation2 name="partitive">
+              <term2 name="Impression">
+                  <relation3 name="partitive">
+                      <term3 name="Impression au plomb">
+                        <relation4 name="partitive">
+                        <term4 name="Presse manuelle" />
+                        <term4 name="Presse mécanique" />
+                        <term4 name="Presse industrielle" />
+                        </relation4>
+                      </term3>
+                      <term3 name="Impression sérigraphique" />
+                     <term3 name="Héliogravure" />
+                     <term3 name="Impression offset" />
+                     <term3 name="Impression numérique" />
+                 </relation3>
+              </term2>
+              <term2 name="Inscription">
+                  <relation3 name="partitive">
+                      <term3 name="En surface">
+                        <relation4 name="partitive">
+                        <term4 name="Pochoir" />
+                        </relation4>
+                      </term3>
+                      <term3 name="En relief">
+                        <relation4 name="partitive">
+                        <term4 name="Gravure lapidaire" />
+                        </relation4>
+					  </term3>
+                 </relation3>
+              </term2>
+          </relation2>
+      </term1>
+
+    </relation1>
+  </term0>
+
+  <term0 name="Commerce typographique">
+    <relation1 name="partitive">
+     
+     <term1 name="Ventes de licences">
+          <relation2 name="partitive">
+              <term2 name="Fonderies"/>
+          </relation2>
+      </term1>
+      
+     <term1 name="Caractères de commande">
+          <relation2 name="partitive">
+              <term2 name="Agences typographiques"/>
+          </relation2>
+      </term1>
+      
+     <term1 name="Produits éditoriaux">
+          <relation2 name="partitive">
+              <term2 name="Éditeurs typographiques"/>
+          </relation2>
+     </term1>
+     
+     <term1 name="Produits dérivés"/>
+
+    </relation1>
+  </term0>
+  
+
+  
+</thesaurus>

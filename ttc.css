@@ -1,0 +1,394 @@
+@font-face {
+    font-family: 'Tulpen';
+    src: url('TulpenOne-Regular.eot');
+    src: url('TulpenOne-Regular.eot?#iefix') format('embedded-opentype'),
+         url('TulpenOne-Regular.woff') format('woff'),
+         url('TulpenOne-Regular.ttf') format('truetype'),
+         url('tulpenone-regular-webfont.svg#tulpen_oneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Tulpen';
+    src: url('TulpenOne-Regular.eot');
+    src: url('TulpenOne-Regular.eot?#iefix') format('embedded-opentype'),
+         url('TulpenOne-Regular.woff') format('woff'),
+         url('TulpenOne-Regular.ttf') format('truetype'),
+         url('tulpenone-regular-webfont.svg#tulpen_oneregular') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Tulpen';
+    src: url('TulpenOne-Regular.eot');
+    src: url('TulpenOne-Regular.eot?#iefix') format('embedded-opentype'),
+         url('TulpenOne-Regular.woff') format('woff'),
+         url('TulpenOne-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: alex;
+    src: url('alessandrinade-webfont.eot');
+    src: url('alessandrinade-webfont.eot?#iefix') format('embedded-opentype'),
+         url('alessandrinade-webfont.woff') format('woff'),
+         url('alessandrinade-webfont.ttf') format('truetype'),
+         url('alessandrinade-webfont.svg#AlessandrinadeMedium') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: alex;
+    src: url('alessandrinade-webfont.eot');
+    src: url('alessandrinade-webfont.eot?#iefix') format('embedded-opentype'),
+         url('alessandrinade-webfont.woff') format('woff'),
+         url('alessandrinade-webfont.ttf') format('truetype'),
+         url('alessandrinade-webfont.svg#AlessandrinadeMedium') format('svg');
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'Ganz_Grotesk';
+    src: url('ganz_grotesk-webfont.eot');
+    src: url('ganz_grotesk-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ganz_grotesk-webfont.woff') format('woff'),
+         url('ganz_grotesk-webfont.ttf') format('truetype'),
+         url('ganz_grotesk-webfont.svg#Ganz_GroteskMedium') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Buda';
+    src: url('Buda.eot');
+    src: url('Buda.eot?#iefix') format('embedded-opentype'),
+         url('Buda.woff') format('woff'),
+         url('Buda.ttf') format('truetype'),
+         url('buda-webfont.svg#budalight') format('svg');
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'Buda';
+    src: url('Buda.eot');
+    src: url('Buda.eot?#iefix') format('embedded-opentype'),
+         url('Buda.woff') format('woff'),
+         url('Buda.ttf') format('truetype'),
+         url('buda-webfont.svg#budalight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Buda';
+    src: url('FengardoNeueR.eot');
+    src: url('FengardoNeueR.eot?#iefix') format('embedded-opentype'),
+         url('FengardoNeueR.woff') format('woff'),
+         url('FengardoNeueR.ttf') format('truetype'),
+         url('fengardoneuer-webfont.svg#fengardo_neueregular') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FengardoNeue';
+    src: url('FengardoNeueB.eot');
+    src: url('FengardoNeueB.eot?#iefix') format('embedded-opentype'),
+         url('FengardoNeueB.woff') format('woff'),
+         url('FengardoNeueB.ttf') format('truetype'),
+         url('fengardoneueb-webfont.svg#fengardo_neueblack') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'FengardoNeue';
+    src: url('FengardoNeueR.eot');
+    src: url('FengardoNeueR.eot?#iefix') format('embedded-opentype'),
+         url('FengardoNeueR.woff') format('woff'),
+         url('FengardoNeueR.ttf') format('truetype'),
+         url('fengardoneuer-webfont.svg#fengardo_neueregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'FengardoNeueSC';
+    src: url('FengardoNeueR.eot');
+    src: url('FengardoNeueR.eot?#iefix') format('embedded-opentype'),
+         url('FengardoNeueR.woff') format('woff'),
+         url('FengardoNeueR.ttf') format('truetype'),
+         url('fengardoneuer-webfont.svg#fengardo_neueregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'FengardoNeueSC';
+    src: url('FengardoNeueR.eot');
+    src: url('FengardoNeueR.eot?#iefix') format('embedded-opentype'),
+         url('FengardoNeueR.woff') format('woff'),
+         url('FengardoNeueR.ttf') format('truetype'),
+         url('fengardoneuer-webfont.svg#fengardo_neueregular') format('svg');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'FengardoNeue';
+    src: url('Buda.eot');
+    src: url('Buda.eot?#iefix') format('embedded-opentype'),
+         url('Buda.woff') format('woff'),
+         url('Buda.ttf') format('truetype'),
+         url('buda-webfont.svg#budalight') format('svg');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+
+	/* IMPORTANT */
+	html {
+		height: 100%;
+		width: 100%;
+		padding: 0;
+		margin-right: auto;
+	    margin-left: auto;
+	}
+body {
+	font-family: FengardoNeue;
+	line-height: 95%;
+	text-align: left;
+}
+
+.logo {
+    font-family: World One OT;
+}
+
+.id {
+     font-family: Allumi Ptf;
+     font-size: 8pt;
+     line-height: 8pt;
+}
+
+	#page-table {
+		height: 100%;
+		width: 100%;
+		padding: 0;
+		margin-right: auto;
+	    margin-left: auto;
+		border-collapse: collapse;
+		text-align: center;
+	}
+	
+		#page-table2 {
+		height: 100%;
+		width: 100%;
+		padding: 0;
+		margin-right: auto;
+	    margin-left: auto;
+		border-collapse: collapse;
+		text-align: left;
+	}
+	#page-td {
+		height: 100%;
+		padding: 0;
+		vertical-align: middle;
+	}
+	div#global, div#credits {
+		width: 15cm;
+		margin-right: auto;
+	    margin-left: auto;
+		vertical-align: middle;
+	}
+
+	/* COSMÉTIQUE */
+	body {
+		background: none;
+	}
+	#page-table {
+		background: none;
+		color: black;
+		page-break-after: always;
+	}
+	
+	#page-table2 {
+		background: none;
+		color: black;
+	}
+	
+	#page-table a {color: black; font-size: 11pt;}
+	
+	div#global {
+		padding: 0px 0px;
+		border: 0px solid black;
+	}
+	
+	div#credits {
+		padding: 0px 0px;
+		border: 0px solid black;
+		text-align: left;
+	}
+	div#global h1 {font-size: 45pt; line-height: 80%; text-align: left; font-family: FengardoNeue, serif; font-weight: bold; line-height: 95%; -moz-font-feature-settings: 'dlig';}
+	div#global h2 {font-size: 36pt; line-height: 80%; font-family: FengardoNeue, serif; font-weight:bold; -moz-font-feature-settings: 'smcp'}
+    div#global h3 {font-size: 24pt; line-height: 80%; font-family: FengardoNeue, serif; font-weight: 400;}
+	div#global p, div#global ul {font-family: Buda, serif; font-size: 14pt; line-height: 95%; color:black; text-align: left;}
+    div#global header  {font-family: Allumi Ptf, serif;
+font-size: 10pt; -moz-font-feature-settings: 'dlig'; color:black;}
+    div#global footer  {font-family: Geneo Pro, serif;
+font-size: 0.9em; -moz-font-feature-settings: 'dlig'; color:black;}
+
+	/* COSMÉTIQUE */
+
+i { font-size: 110%;
+	line-height:18px;
+	color: #000000;
+	font-family: 'Buda',sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	text-align: left;
+}
+
+.detail {
+font-style:italic;
+font-size: 12pt;
+}
+
+.montant {
+-moz-font-feature-settings: 'onum';
+}
+
+a {
+	text-decoration:none;
+	font-style: italic;
+	font-size: 110%;
+}
+
+a:visited {
+	color: 	#696969;
+	text-decoration:none;
+}
+    
+footer{
+width: 100%;
+height: 50px;
+position: fixed;
+bottom: 0px;
+left: 0px;
+font-size: 10pt;
+}
+
+h1 {
+  font-family: Tulpen;
+  font-weight: normal;
+  text-align: center;
+  line-height: 80%; 
+  text-transform: uppercase;
+  font-size: 72pt;
+}
+
+h2 {
+  font-family: FengardoNeue;
+  font-weight: bold;
+  -moz-font-feature-settings: 'smcp';
+  font-size: 36pt;
+  text-align: left;
+  margin-left: 8pt;
+}
+
+h3 {
+  font-family: FengardoNeue;
+  font-weight: normal;
+  font-size: 24pt;
+  text-align: left;
+  margin-left: 16pt;
+}
+
+h4 {
+  font-family: Buda;
+  font-weight: normal;
+  font-size: 18pt;
+  line-height: 80%;
+  text-align: left;
+  margin-left: 24pt;
+}
+
+h5 {
+  font-family: FengardoNeue;
+  font-weight: normal;
+  font-size: 16pt;
+  line-height: 20%;
+  -moz-font-feature-settings: 'smcp';
+  text-align: left;
+  margin-left: 32pt;
+}
+
+h6 {
+  font-family: FengardoNeue;
+  font-weight: normal;
+  font-size: 15pt;
+  line-height: 20%;
+  text-align: left;
+  margin-left: 40pt;
+}
+
+h7 {
+  font-family: FengardoNeue;
+  font-weight: normal;
+  font-size: 14pt;
+  text-align: left;
+  margin-left: 48pt;
+}
+
+p {
+  font-family: FengardoNeue;
+  font-size: 14pt;
+  line-height: 20%;
+  margin-left: 56pt;
+}
+
+header{
+width: 100%;
+height: 100px;
+position: relative;
+top: 0px; 
+left: 0px; 
+}
+
+abbr {
+-moz-font-feature-settings: 'c2sc';
+}
+
+ul.a {list-style-type:none;}
+ul.b {list-style-type:square;}
+ol.c {list-style-type:upper-roman;}
+ol.d {list-style-type:decimal-leading-zero; -moz-font-feature-settings: "onum";}
+ol.e {list-style-type:lower-latin; font-family: 'Buda',sans-serif;}
+ol.f {list-style-type:decimal; font-family: 'Buda',sans-serif; font-size:100%; line-height:100%;}
+
+.smcp {-moz-font-feature-settings: 'smcp';}
+.c2sc {-moz-font-feature-settings: 'c2sc';}
+
+	
+@page {
+  margin: 10mm 10mm 10mm 10mm;
+  size: 7in 9.25in;
+  }
