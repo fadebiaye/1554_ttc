@@ -247,7 +247,7 @@ body {
 		border: 0px solid black;
 		text-align: left;
 	}
-	div#global h1 {font-size: 45pt; line-height: 80%; text-align: left; font-family: FengardoNeue, serif; font-weight: bold; line-height: 95%; -moz-font-feature-settings: 'dlig';}
+	div#global h1 {font-size: 45pt; line-height: 100%; text-align: left; font-family: FengardoNeue, serif; font-weight: bold; -moz-font-feature-settings: 'dlig';}
 	div#global h2 {font-size: 36pt; line-height: 80%; font-family: FengardoNeue, serif; font-weight:bold; -moz-font-feature-settings: 'smcp'}
     div#global h3 {font-size: 24pt; line-height: 80%; font-family: FengardoNeue, serif; font-weight: 400;}
 	div#global p, div#global ul {font-family: Buda, serif; font-size: 14pt; line-height: 95%; color:black; text-align: left;}
@@ -300,9 +300,9 @@ h1 {
   font-family: Tulpen;
   font-weight: normal;
   text-align: center;
-  line-height: 80%; 
+  line-height: 100%; 
   text-transform: uppercase;
-  font-size: 72pt;
+  font-size: 24pt;
 }
 
 h2 {
