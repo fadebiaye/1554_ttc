@@ -5,6 +5,10 @@ Thésaurus typographique contemporain
 
 Proposition de thésaurus typographique
 
+## Site officiel du projet
+
+http://thesaurus.typographiefrancaise.fr/
+
 # Qu'est-ce qu’un thésaurus ?
 
 Un thésaurus est une liste organisée de termes contrôlés et normalisés 
